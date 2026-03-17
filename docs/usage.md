@@ -48,3 +48,4 @@ Notes and usage details for dgx-spark-inference-stack.
 - fix a small wording issue
 - fix a small wording issue
 - add a note about the defaults
+- link the usage section
