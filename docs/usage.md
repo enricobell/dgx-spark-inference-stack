@@ -55,3 +55,4 @@ Notes and usage details for dgx-spark-inference-stack.
 - fix a small wording issue
 - fix a small wording issue
 - link the usage section
+- add a note about the defaults
