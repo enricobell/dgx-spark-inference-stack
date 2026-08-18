@@ -71,3 +71,4 @@ Notes and usage details for dgx-spark-inference-stack.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- add a note about the defaults
