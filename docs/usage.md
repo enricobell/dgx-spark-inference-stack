@@ -80,3 +80,4 @@ Notes and usage details for dgx-spark-inference-stack.
 - link the usage section
 - add a note about the defaults
 - fix a small wording issue
+- clarify the setup steps
